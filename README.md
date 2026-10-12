@@ -1,3 +1,13 @@
+# What Drives Transit Delays? (TTC Delay Analytics)
+Group project (BSMM 8730) with Amna Wasi, Huynh Tran, and Muhammad Usman.
+
+Analyzed 349,358 Toronto transit delays (2023–2026) to find what drives them.
+**Key finding:** heavy snow raises streetcar delays by 54%, bus by 24%, subway by 12%.
+**Stack:** Python · MySQL · MongoDB · Streamlit · Plotly
+
+![Key finding](analysis/outputs/chart_cross_factor_ranking.png)
+
+---
 # TTC Delay Analytics Framework
 
 What Drives Transit Delays? A Multi-Factor Operations Analytics Framework for the TTC.
